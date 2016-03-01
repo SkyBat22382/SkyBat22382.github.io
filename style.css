@@ -1,6 +1,7 @@
 body{
   background-image:url("http://data.hdwallpapers.im/free_indian_food.jpg");
 }
-.products img http://wildfoodcafe.com/wp-content/uploads/2014/01/imgo-300x117.jpg
+.products img{
+  width:190px;
 }
 
